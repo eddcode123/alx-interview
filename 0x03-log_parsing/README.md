@@ -3,7 +3,6 @@
 
 AlgorithmPython
 
-- By Dev Nderitu
 
 Requirements
 ------------
