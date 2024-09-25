@@ -3,7 +3,6 @@
 
 AlgorithmPython
 
-
 Requirements
 ------------
 
